@@ -16,4 +16,4 @@ This website is designed for the **IEEE Power and Energy Society (PES) Student B
 - **JavaScript** - Enhancements & Interactivity *(if applicable)*  
 
 ## 🔗 **Live Website**  
-🌐 **Deployed Link:** https://guileless-hamster-3c7e7c.netlify.app/  
+🌐 **Deployed Link:** https://curious-capybara-2450dc.netlify.app/  
